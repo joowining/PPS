@@ -1,3 +1,4 @@
+//A006 프로그래머스
 class Solution {
     boolean solution(String s) {
         boolean answer = true;
